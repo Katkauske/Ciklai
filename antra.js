@@ -15,5 +15,5 @@ function sumosGrazinimas(pradzia,pabaiga,d){
         suma += i;  
         console.log(suma)   
     }
-    
+    return suma
 }
