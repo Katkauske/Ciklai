@@ -10,7 +10,7 @@ console.log(grazintiTeigiamuSuma())
 function grazintiTeigiamuSuma(){
     let suma = 0;
     let skaicius = 0;
-    while  ( skaicius >= 0) {
+    while  ( skaicius >= 0 ) {
     skaicius = +prompt("Iveskite skaiciu");
     suma += skaicius;
 }
